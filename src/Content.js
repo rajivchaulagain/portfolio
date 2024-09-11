@@ -12,7 +12,7 @@ import services_logo3 from "./assets/images/Services/logo3.png";
 import suyatra from "./assets/images/Projects/suyatra.png";
 import paisalabs from "./assets/images/Projects/paisalabs.png";
 import matrixmutual from "./assets/images/Projects/image.png";
-import person_project from "./assets/images/projects/person.png";
+import person_project1 from "./assets/images/Projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
 import avatar2 from "./assets/images/Testimonials/avatar2.png";
@@ -122,7 +122,7 @@ export const content = {
   Projects: {
     title: "Projects",
     subtitle: "MY CREATION",
-    image: person_project,
+    image: person_project1,
     project_content: [
       {
         title: "Suyatra",
